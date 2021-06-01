@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/2pbnfAdwCsY2Yy5lfFNWoV/36482189384dba2772603d1f4f887bca/ic-logo-one-tv?q=70", INSTITUCIONAL
 https://go.tigo.com.py/zndsk/videos/onetv/onetv_info.mp4
-#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/12/logo_snt.png", SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyNjc1NTU5LCJzZXNzaW9uIjoiMTgxLjEyMi4xNzIuMTg0Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjIuMTcyLjE4NCJdfSwic2lnbmF0dXJlIjoiZThhMzFjYjljNmRiYzI4OTJkMDZkYzNmNWM0M2I2ZTA4ZTdiMWRlMCJ9
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/1d/92/1d92bd53-fa96-4d87-96ca-146adaa5b4fd.png", E40 TV
 https://tigocloud.desdeparaguay.net/e40tv/e40tv_py_med/playlist.m3u8?k=fb9a7681fe587d2b49231f2fe30c289a34e738642fe5006f07562aab7230c227&exp=1612832050
 #EXTINF:-1 tvg-logo="https://5dias.com.mx/wp-content/uploads/2020/09/5DIAS-MX-LOGO-e1601067869893.png", 5DIAS
@@ -14,20 +12,24 @@ https://popscast.000webhostapp.com/wp-content/uploads/2020/11/Untitled-1.mp4
 https://dl.dropboxusercontent.com./s/3sg13htys6uekb3/InShot_20201130_223528786.mp4?dl=0
 #EXTINF:-1 tvg-logo="http://www.vcc.com.py/img/tv-lambare.png", LAMBARE TV
 https://59ce1298bfb98.streamlock.net/unity/unity/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/12/20201202_215821.png", CFA TV
+#EXTINF:-1 tvg-logo="http://www.ingmunizaga.com/voluntario/img/logo.png", CFA TV
 http://copaco.desdeparaguay.net:1935/cfatv/cfatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/12/IMG_20201208_155237_978.jpg", LA INVASIVA TV
-http://lainvasivatv.ml:8080/live/stream.m3u8
-#EXTINF:-1 tvg-id="telefuro" tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201130_185624.png", TELEFUTURO HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hnygy6O.png", LA INVASIVA TV
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+#EXTINF:-1 tvg-id="telefuro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png", TELEFUTURO
+https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w1264506183.m3u8?k=7275d5bd66a2e8cf53b746201c75b47e5e3c61858026dfca7d676f028ac02bc8&exp=1622589559
+#EXTINF:-1 tvg-id="telefuro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png", TELEFUTURO HD
 http://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
 #EXTINF:-1 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png", NOTICIAS PY HD
 http://cdn.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4.m3u8
-#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201130_185500.png", LA TELE HD
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-WvhOwqam87E/WKCwnD8MJvI/AAAAAAAABew/nV365WfzHRk4qlmPh4xJMsqDU6_Ayi5zACK4B/s1600/logo%2Bla%2Btele%2Bpy.png", LA TELE HD
 http://cdn.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-audio_20000=144800-video=1532000.m3u8
 #EXTINF:-1 tvg-logo="https://www.trece.com.py/public/img/Logo-Trece.png", ELTRECE
 http://edge02-cde-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-audio_20000=144800-video=2100000.m3u8
 #EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/1606172919895.png", UNICANAL HD
 http://45.55.127.106/live/unicanal_mid.m3u8
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/12/logo_snt.png", SNT
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyNjc1NTU5LCJzZXNzaW9uIjoiMTgxLjEyMi4xNzIuMTg0Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjIuMTcyLjE4NCJdfSwic2lnbmF0dXJlIjoiZThhMzFjYjljNmRiYzI4OTJkMDZkYzNmNWM0M2I2ZTA4ZTdiMWRlMCJ9
 #EXTINF:-1 tvg-logo="https://www.snt.com.py/wp-content/themes/albavision-theme/img/logo.png", SNT HD
 http://www.globaltvplusiptv.club/streaming/globalplayerfinal.php?2816
 #EXTINF:-1 tvg-logo="https://www.c9n.com.py/wp-content/themes/albavision-theme/img/logo.png", C9N HD
