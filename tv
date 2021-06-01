@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201130_185859.png", INFOCASAS TV
+https://popscast.000webhostapp.com/wp-content/uploads/2020/11/Untitled-1.mp4
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201130_190436.png", OLIMPIA MEDIA
+https://dl.dropboxusercontent.com.com/s/3sg13htys6uekb3/InShot_20201130_223528786.mp4?dl=0
+#EXTINF:-1 tvg-logo="http://www.vcc.com.py/img/tv-lambare.png", LAMBARE TV
+https://59ce1298bfb98.streamlock.net/unity/unity/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/12/20201202_215821.png", CFA TV
+http://copaco.desdeparaguay.net:1935/cfatv/cfatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/12/IMG_20201208_155237_978.jpg", LA INVASIVA TV
+http://lainvasivatv.ml:8080/live/stream.m3u8
+#EXTINF:-1 tvg-id="telefuro" tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201130_185624.png", TELEFUTURO HD
+http://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
+#EXTINF:-1 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png", NOTICIAS PY
+http://cdn.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4.m3u8
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201130_185500.png", LA TELE
+http://cdn.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-audio_20000=144800-video=1532000.m3u8
+#EXTINF:-1 tvg-logo="https://www.trece.com.py/public/img/Logo-Trece.png", ELTRECE
+http://edge02-cde-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-audio_20000=144800-video=2100000.m3u8
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/1606172919895.png", UNICANAL
+http://45.55.127.106/live/unicanal_mid.m3u8
+#EXTINF:-1 tvg-logo="", SNT
+https://raw.githubusercontent.com/popcast1/tvp/main/Snt
+#EXTINF:-1 tvg-logo="https://www.c9n.com.py/wp-content/themes/albavision-theme/img/logo.png", C9N
+http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4.m3u8
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/g3le2wuvu7db/2JLFjs5MU9sbpFiHUdOx2y/83a2caed9ad6e98eb801fcf54c348303/N__andutiTV_2x.png", ÑANDUTI TV
+https://cdn3.wowza.com/1/U0xCd1RZUGM5cDQ1/NkhSRzB6/hls/wh6mybmx/1728/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png", PARAGUAY TV
+http://tv-cool.com:25461/Marco@345/iqTnHR75Aq/31246
+#EXTINF:-1 tvg-logo="https://www.rcn.com.py/wp-content/uploads/2020/08/logo_web@footer.png", RCN TV PARAGUAY
+https://59ce1298bfb98.streamlock.net/rcntv/rcntv/chunklist_w1647429294.m3u8
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201130_191923.png", PARAVISION
+http://edge02-cde-py.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3fae4e_bf58b7726a1e4f4992cb3fe7a0bd7e50~mv2.png/v1/fill/w_2626,h_1206,al_c/3fae4e_bf58b7726a1e4f4992cb3fe7a0bd7e50~mv2.png", PRO TV
+http://globalentertainmentec.xyz:8000/Fiocel03/RABQSphUDg/96267
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png", GEN TV
+http://stkiptv.ddns.me:27890/marcos/12345/14808
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201130_191728.png", HEI TV
+https://tigocloudgen.desdeparaguay.net/heitv/heitv_py_alta/chunklist_w1988433276.m3u8
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201129_110632-2.png",TVS
+http://201.217.3.212/tvs/tvs/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201130_191603.png",ABC TV
+http://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4.m3u8
+#EXTINF:-1 tvg-logo="https://www.masencarnacion.com/assets/img/logomastv.png", MAS TV
+http://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvkDjwP7mjvWV5CepQLjWvIO1aPHJxIO95_hLvwKG4yXzqco95O6HxgUXyFCSh6gSoFOP38vp77X-8CpOeR86OVepF8TApgJVFG2Kofr3dugtEI8b81oi5bn6H86d7J9yyHssej1my-8zhWafYrBUGV6wg7ls2WwgGv3w2KoCDLNFYNO_MK_fM4uQ9o51nWtzje1WistIiyKhR-tdv3GCXhdjQJdGYhIDkBTQis_xaVsS2YcNXICuBFkmTUCH5YtgZy3JXDxHNd5eeYDrgTlBNllRodnxARktUg_jw-BavhfZHXZHTHagoBg85BCXrlr_IXkcLaMkXEdXERu-KNEMkoIZhK8T_rdlkKyoRETXeGJJIu1q-4cdQjm_nOTkIXdFmG_P4lAhr1RreRyy-T1Au_8FyFxVUuoUsTV5q7KxwFuaht6iBJnKe6okEtLRwjEz5QgdPSwS5cXkjI-9WktjEZB16IESiNliTKP4TppZ5UbZw0jp1ykYBP9W1A88Yi0J0nmPv4jssQ68aUbdGwLgXTk10865SbnT9TxKf-u1saW7SEQUTUWl0Wb8mlzVqoUbPLqUPYye1d-srk5R0l7g7zDNQCaBFkmbIYBDujutQXHyP8QHue9oBc3sNNCxphpCqcAqPJCG0nJohzhkfqv6q6fuqaM6x7Rj3V0UBIQjo92eMfT6QEuCqwhnKrvgRoMy3m_-IZtrZU5BDCQ.m3u8
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/12/Sur_TV_Itapua_2013.png", SUR TV
+http://cdn.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4.m3u8
+#EXTINF:-1 tvg-logo="https://estacion40.com.py/wp-content/uploads/2019/09/logo-e40_opt.png", E40 TV
+https://tigocloud.desdeparaguay.net/e40tv/e40tv_py_med/chunklist_w245298666.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png", MiTV OBLIGADO
+http://copaco.desdeparaguay.net:1935/mitv/mitv/chunklist_w933911547.m3u8
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201129_105609.png", RCC TV CHAQUEÑA
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/12/20201202_220258.png", VILLARICA VISION
+http://inliveserver.com:1935/8312/8312/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/unnamed-1.png", FARRA PLAY TV
+http://159.203.148.226/live/farra_mid.m3u8
