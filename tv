@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://images.tigocloud.net/g3le2wuvu7db/2pbnfAdwCsY2Yy5lfFNWoV/36482189384dba2772603d1f4f887bca/ic-logo-one-tv?q=70", INSTITUCIONAL
 https://go.tigo.com.py/zndsk/videos/onetv/onetv_info.mp4
 #EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/12/logo_snt.png", SNT
-https://edge-live13-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C4.mpd=
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyNjc1NTU5LCJzZXNzaW9uIjoiMTgxLjEyMi4xNzIuMTg0Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjIuMTcyLjE4NCJdfSwic2lnbmF0dXJlIjoiZThhMzFjYjljNmRiYzI4OTJkMDZkYzNmNWM0M2I2ZTA4ZTdiMWRlMCJ9
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/1d/92/1d92bd53-fa96-4d87-96ca-146adaa5b4fd.png", E40 TV
 https://tigocloud.desdeparaguay.net/e40tv/e40tv_py_med/playlist.m3u8?k=fb9a7681fe587d2b49231f2fe30c289a34e738642fe5006f07562aab7230c227&exp=1612832050
 #EXTINF:-1 tvg-logo="https://5dias.com.mx/wp-content/uploads/2020/09/5DIAS-MX-LOGO-e1601067869893.png", 5DIAS
