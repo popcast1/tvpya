@@ -6,12 +6,6 @@ https://tigocloud.desdeparaguay.net/e40tv/e40tv_py_med/playlist.m3u8?k=fb9a7681f
 #EXTINF:-1 tvg-logo="https://5dias.com.mx/wp-content/uploads/2020/09/5DIAS-MX-LOGO-e1601067869893.png", 5DIAS
 https://dl.dropboxusercontent.com/s/x97lr9t8tgw7mh8/InShot_20210208_221936369.mp4?dl=0
 https://live.budtv-ultra.com/bud34jnfs/sfgsrgrsgsg/4598_.m3u8
-#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201130_185859.png", INFOCASAS TV
-https://popscast.000webhostapp.com/wp-content/uploads/2020/11/Untitled-1.mp4
-#EXTINF:-1 tvg-logo="https://popscast.000webhostapp.com/wp-content/uploads/2020/11/20201130_190436.png", OLIMPIA MEDIA
-https://dl.dropboxusercontent.com./s/3sg13htys6uekb3/InShot_20201130_223528786.mp4?dl=0
-#EXTINF:-1 tvg-logo="http://www.vcc.com.py/img/tv-lambare.png", LAMBARE TV
-https://59ce1298bfb98.streamlock.net/unity/unity/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ingmunizaga.com/voluntario/img/logo.png", CFA TV
 http://copaco.desdeparaguay.net:1935/cfatv/cfatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hnygy6O.png", LA INVASIVA TV
@@ -35,7 +29,7 @@ http://www.globaltvplusiptv.club/streaming/globalplayerfinal.php?2816
 #EXTINF:-1 tvg-logo="https://www.c9n.com.py/wp-content/themes/albavision-theme/img/logo.png", C9N HD
 http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/g3le2wuvu7db/2JLFjs5MU9sbpFiHUdOx2y/83a2caed9ad6e98eb801fcf54c348303/N__andutiTV_2x.png", ÑANDUTI TV
-https://cdn3.wowza.com/1/U0xCd1RZUGM5cDQ1/NkhSRzB6/hls/sf5f2mbn/2728/chunklist.m3u8
+https://tvdatta.com:3839/live/nandutitvlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Paraguay_TV_logo.png", PARAGUAY TV
 http://tv-cool.com:25461/Marco@345/iqTnHR75Aq/31246
 #EXTINF:-1 tvg-logo="https://www.rcn.com.py/wp-content/uploads/2020/08/logo_web@footer.png", RCN TV PARAGUAY
