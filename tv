@@ -13,7 +13,7 @@ https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 #EXTINF:-1 tvg-id="telefuro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png", TELEFUTURO
 https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w1264506183.m3u8?k=7275d5bd66a2e8cf53b746201c75b47e5e3c61858026dfca7d676f028ac02bc8&exp=1622589559
 #EXTINF:-1 tvg-id="telefuro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png", TELEFUTURO HD
-http://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8
+https://edge9-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A/TELEFUTURO_C4.mpd
 #EXTINF:-1 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png", NOTICIAS PY HD
 http://cdn.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-WvhOwqam87E/WKCwnD8MJvI/AAAAAAAABew/nV365WfzHRk4qlmPh4xJMsqDU6_Ayi5zACK4B/s1600/logo%2Bla%2Btele%2Bpy.png", LA TELE HD
